@@ -45,5 +45,5 @@ print "list of our example :", list
 print "result of our function : ", result
 
 #in our case, we consider a worst case scenario, then, the complexity of time is O(n) and complexity of space is : O(n).
-# the algorithm is based on Greedy Approach
+# We can base our algorithm on Greedy Approach
 
