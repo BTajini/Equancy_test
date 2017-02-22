@@ -1,9 +1,9 @@
-# Equancy_test
+# Equancy test
 
 
 ##Simulation of Equancy Test
 
-Time & Space Complexity Of Equancy Test
+Time & Space Complexity Of Equancy Test (P3)
 
 ##Worst Case Scenario :
 
